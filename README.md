@@ -4,7 +4,8 @@
 Develope an Offer Recommender System from Bank’s Data.
 
 **Solution Description:**
-1) Alternating Least Squares from pyspark's mllib is used along with models like SVD, CoClustering and SlopeOne from Python's Surprise package to build the recommender system. The comparison of all the models is attached below:
+1) **Alternating Least Squares** from pyspark's mllib is used along with models like **Singular Value Decomposition**,** CoClustering and SlopeOne** from Python's **Surprise** package to build the recommender system. The comparison of all the models is attached below:
+
 ![image](https://user-images.githubusercontent.com/69714874/126201526-7a64a0d2-280f-4c3a-b667-37fdb6b62cbb.png)
 
 2) Technology used: Python, Machine Learning, Apache Spark, and Open-source libraries
