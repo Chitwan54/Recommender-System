@@ -8,7 +8,7 @@ Develop an Offer Recommender System from Bank’s Data.
 
 ![image](https://user-images.githubusercontent.com/69714874/126201526-7a64a0d2-280f-4c3a-b667-37fdb6b62cbb.png)
 
-2) Technology used: Python, Machine Learning, Apache Spark, and Open-source libraries
+2) **Technology used**: Python, Machine Learning, Apache Spark, and Open-source libraries
 
 The Repository contains the following:
 1) Jupyter Notebook containing the solution(code) to the problem statement.
